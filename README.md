@@ -1,2 +1,6 @@
-# beta-zero
-Chess bot inspired by https://arxiv.org/pdf/1712.01815.pdf 
+# DeepReinforcementLearning
+A replica of the AlphaZero methodology in Python
+
+See this article for a summary of the algorithm and run instructions.
+
+https://applied-data.science/blog/how-to-build-your-own-alphazero-ai-using-python-and-keras/
